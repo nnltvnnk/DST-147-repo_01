@@ -2,7 +2,7 @@
 Изучение работы с GITHUB и VS Code
 
 ## Заголовок второго уровня - список проектов
-* Проект №00: https://github.com/nnltvnnk/DST-147-repo_01/project_00
+* Проект №00: https://github.com/nnltvnnk/DST-147-repo_01/tree/main/project_00
 * Проект №01: ___
 * Проект №02: ___
 
