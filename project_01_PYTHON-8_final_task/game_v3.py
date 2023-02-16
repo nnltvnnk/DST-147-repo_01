@@ -54,7 +54,7 @@ def score_game(game_core_v3) -> int:
         count_ls.append(game_core_v3(number))
 
     score = int(np.mean(count_ls))
-    print(f"Алгоритм угадывает число в среднем за {score} попыток")
+    print(f"Алгоритм угадывает число в среднем за {score} попыток.")
 
 
 if __name__ == "__main__":
